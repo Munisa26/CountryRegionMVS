@@ -1,0 +1,15 @@
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\CountryData.deps.json
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\CountryData.runtimeconfig.json
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\CountryData.runtimeconfig.dev.json
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\CountryData.dll
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\ref\CountryData.dll
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\bin\Debug\net5.0\CountryData.pdb
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.csproj.AssemblyReference.cache
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.AssemblyInfoInputs.cache
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.AssemblyInfo.cs
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.csproj.CoreCompileInputs.cache
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.dll
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\ref\CountryData.dll
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.pdb
+C:\Users\hpryz\source\repos\CountryRegion\CountryData\obj\Debug\net5.0\CountryData.genruntimeconfig.cache

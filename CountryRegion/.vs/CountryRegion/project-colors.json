@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8187b978-3966-4f05-a2d0-414d8470dca3": {
+      "ProjectGuid": "8187b978-3966-4f05-a2d0-414d8470dca3",
+      "DisplayName": "CountryRegion.MVC",
+      "ColorIndex": 0
+    },
+    "dfa1c166-cf84-4e61-8bd1-583aeb25bb59": {
+      "ProjectGuid": "dfa1c166-cf84-4e61-8bd1-583aeb25bb59",
+      "DisplayName": "CountryData",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
